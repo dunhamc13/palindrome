@@ -1,4 +1,4 @@
-/* two sum 
+/* Palidrome 
  * @Description: Practicing solving problems with arrays.  Given a string,
  * is it a palidrome?
  *
